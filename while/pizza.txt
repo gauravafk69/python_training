@@ -1,0 +1,16 @@
+Gaurav Shrestha registered
+Gaurav Shrestha Your total amount is 7000.0Gaurav registered
+Gaurav Your total amount is 2000.0kaley ram mama registered
+kaley ram mama Your total amount is 2000.0Gaurav registered
+['cat pizza', 'dog pizza'] were orderedGaurav Your total amount was 7000.0 
+Gaurav Shrestha ji registered
+['cat pizza', 'cat pizza', 'dog pizza'] were ordered
+['eye', 'tail', 'neck'] were added to the pizzaGaurav Shrestha ji Your total amount was 9000.0 
+gaurav ji sir registered
+['cat pizza', 'dog pizza', 'cat pizza'] were ordered
+['eye', 'tail', 'eye'] were added to the pizza
+gaurav ji sir Your total amount was 9000.0 
+Gaurav ji sir registered
+['cat pizza', 'dog pizza', 'cat pizza'] pizzas were ordered
+['eye', 'tail', 'eye'] toppings were added to the pizza
+Gaurav ji sir Your total amount was 9000.0 

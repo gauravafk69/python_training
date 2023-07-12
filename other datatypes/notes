@@ -1,0 +1,11 @@
+Datatypes
+1.LIST(mutable)
+to keep a group in ordered manner. Can be changed
+
+2. Tuple(imutable)
+same as list. but the members of the list cant be changed.
+
+3. Dictionary
+
+
+4.Set
