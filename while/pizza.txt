@@ -14,3 +14,11 @@ Gaurav ji sir registered
 ['cat pizza', 'dog pizza', 'cat pizza'] pizzas were ordered
 ['eye', 'tail', 'eye'] toppings were added to the pizza
 Gaurav ji sir Your total amount was 9000.0 
+Gaurav  registered
+['cat pizza', 'cat pizza'] pizzas were ordered
+['eye', 'tail'] toppings were added to the pizza
+Gaurav  Your total amount was 4000.0 
+no registered
+[] pizzas were ordered
+[] toppings were added to the pizza
+no Your total amount was 0.0 
